@@ -1,5 +1,3 @@
-# ml23-team05
-
 ### Introduction
 Welcome to our project! This is an In-class Kaggle Competition. We are the team 5. 
 In this project, we are dealing with product return rate. Product return is a tricky thing in real life. It not only adds extra cost for the retailers but also trigger environmental issue. Here, we are using four weeks of sales and return data to predict individual product yearly return rates.
